@@ -1,6 +1,13 @@
 # Modern Snake Game
+**COMPANY:** Codtech IT Solutions  
+**NAME:** Anukrati chauhan 
+**INTERN ID:** CT04DZ480  
+**DOMAIN:** C++ Programming 
+**DURATION:** 4 Weeks  
+**MENTOR:** Neela Santhosh  
 
 A professional-grade Snake game implementation using SFML with modern C++ practices.
+
 
 ## Features
 
